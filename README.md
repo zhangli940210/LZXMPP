@@ -1,0 +1,2 @@
+# LZXMPP
+XMPP小DEMO
